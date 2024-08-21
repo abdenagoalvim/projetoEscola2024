@@ -8,4 +8,5 @@ Para praticar a **herança** criaremos a classe **Pessoa** como classe base (cla
 Por fim, criaremos as classes **Professor** e **Funcionario** como classes derivadas (classes filhas) da classe **Empregado**.
 
 E para trabalhar com o **polimorfismo** criaremos mais de um construtor para cada classe. Esses construtores terão o mesmo nome, porém assinaturas diferentes (quantidade e tipos de parâmetros). Nesse caso, estaremos trabalhando com o **polimorfismo de sobrecarga**.
+
 E para o **polimorfismo de sobreposição** criaremos métodos nas classes base, que serão sobrescritos nas classes derivadas, como por exemplo o método **toString()**.
