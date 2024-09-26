@@ -1,5 +1,5 @@
 # projetoEscola2024
-Projeto de POO em Java para os alunos do 3o ano do curso Técnico em Informática
+Projeto de POO em Java para os alunos do 3o ano do curso Técnico em Informática - teste aula
 
 ### Objetivo
 O principal objetivo dessa atividade é praticar os conceitos de **herança** e **polimorfismo** na POO (Programação Orientada a Objetos) usando a linguagem Java.
